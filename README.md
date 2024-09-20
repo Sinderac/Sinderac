@@ -3,9 +3,14 @@
     width="800"/>
 </div>
 
-<div id="badges" align="center">
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-javier-meza-trejo-data-analyst/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/luis-javier-meza-trejo-data-analyst/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sinderac.sinderac&color=00cf00" alt=""/>
+
 
 <!--
 **Sinderac/Sinderac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
