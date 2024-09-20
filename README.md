@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-<img decoding="async" src="(https://github.com/user-attachments/assets/4fe31260-0cb7-4946-99c3-e7b058f1b550)
-  width="800"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/4fe31260-0cb7-4946-99c3-e7b058f1b550" 
+    width="800"/>
 </div>
 
 
